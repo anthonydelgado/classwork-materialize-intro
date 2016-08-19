@@ -1,0 +1,22 @@
+{
+  "name": "classwork-materialize-intro",
+  "version": "1.0.0",
+  "description": "make android great again",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonydelgado/classwork-materialize-intro.git"
+  },
+  "keywords": [
+    "materialize"
+  ],
+  "author": "anthony delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonydelgado/classwork-materialize-intro/issues"
+  },
+  "homepage": "https://github.com/anthonydelgado/classwork-materialize-intro#readme"
+}
