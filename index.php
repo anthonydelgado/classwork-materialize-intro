@@ -6,6 +6,6 @@
  * Time: 7:30 AM
  */
 
-require('index.html');
+include('index.html');
 
 ?>
